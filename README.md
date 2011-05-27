@@ -1,5 +1,5 @@
-# GemAWeek Base Rails Application
+# GemAWeek Episode 1 - Geocoder
 
-This is the base application for GemAWeek episodes. Please go to the
-individual episode to get the source for that particular one. This
-application will change over time as new episodes are created
+Geocoder is a library from alexreisner that makes adding geocoding to
+your application very easy. You can view the geocoder Github page at
+[https://github.com/alexreisner/geocoder](https://github.com/alexreisner/geocoder)
