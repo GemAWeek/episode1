@@ -1,4 +1,6 @@
 GemaweekBase::Application.routes.draw do
+  resources :businesses
+  get 'welcome/index'
   root to: "Welcome#index"
   # The priority is based upon order of creation:
   # first created -> highest priority.

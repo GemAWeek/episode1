@@ -6,7 +6,7 @@
 .vertical_form fieldset{border:1px solid #888;margin:10px 0px;padding:10px 20px 10px 20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius: 10px;}
 .vertical_form fieldset.fieldsetbuttons {padding:10px 10px 10px 20px;}
 .vertical_form fieldset.fieldsetbuttons div {text-align:right;}
-.vertical_form legend {margin:0px;border:1px solid #888;padding:3px 6px;background:#eee url(images/notjustagrid/transoverlay-matte.png) repeat-x;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius: 5px;text-transform:uppercase;	letter-spacing:2px;}
+.vertical_form legend {margin:0px;border:1px solid #888;padding:3px 6px;background:#eee url(../images/notjustagrid/misc/transoverlay-matte.png) repeat-x;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius: 5px;text-transform:uppercase;	letter-spacing:2px;}
 .vertical_form label {display:block;margin:10px 0px 5px 0px;}
 .vertical_form ul {margin:0px; padding:0px;}
 .vertical_form li {list-style:none; margin:0px; padding:0px;}
@@ -18,7 +18,7 @@
 .horizontal_form fieldset{border:1px solid #888;margin:10px 0px;padding:10px 20px 10px 20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius: 10px;}
 .horizontal_form fieldset.fieldsetbuttons {padding:10px 10px 10px 20px;}
 .horizontal_form fieldset.fieldsetbuttons div {text-align:right;}
-.horizontal_form legend {margin:0px;border:1px solid #888;padding:3px 6px;background:#eee url(images/notjustagrid/transoverlay-matte.png) repeat-x;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius: 5px;text-transform:uppercase;	letter-spacing:2px;}
+.horizontal_form legend {margin:0px;border:1px solid #888;padding:3px 6px;background:#eee url(../images/notjustagrid/misc/transoverlay-matte.png) repeat-x;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius: 5px;text-transform:uppercase;	letter-spacing:2px;}
 .horizontal_form label {float:left;margin:0px 5px 0px 0px; width:100px; text-align:right;}
 .horizontal_form ul {margin:0px; padding:0px;}
 .horizontal_form li {list-style:none; vertical-align:middle; margin:10px 0px;clear:left;}
